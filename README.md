@@ -8,3 +8,8 @@ Melhorar minha habilidades de estilização em CSS3
 
 ## Regras Gerais
 - Realizar um projeto por dia
+
+
+# Desafios
+
+- **Desafio 1 - CSS 9Dots Menu**
