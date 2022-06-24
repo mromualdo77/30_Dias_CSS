@@ -17,7 +17,7 @@ Melhorar minha habilidades de estilização em CSS3
 
 ![]
 
-[Meu  código]
+[Meu  código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/1%C2%BA_Dia)
 
 Referência:
 [Criação de Menu 9 Pontos](https://www.youtube.com/watch?v=5OLDpdqdyWE&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=2)
