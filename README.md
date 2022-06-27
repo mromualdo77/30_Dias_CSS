@@ -28,6 +28,7 @@ Aprendizados:
 * *propriedade CSS **transition***
 * *pseudo-classe **:hover***
 
+
 ----
 
 - **Dia 2 - Menu Indicador**
@@ -44,3 +45,5 @@ Aprendizados:
 
 * *propriedade CSS **transition***
 * *pseudo-classe **:hover***
+*  *pseudo-classe **nth-child***
+*  * *pseudo-elemento **:after***
