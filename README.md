@@ -18,7 +18,7 @@ Melhorar minha habilidades de estilização em CSS3
 
 ![]
 
-[Meu  código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/1%C2%BA_Dia)
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/1%C2%BA_Dia)
 
 Referência:
 [Criação de Menu 9 Pontos](https://www.youtube.com/watch?v=5OLDpdqdyWE&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=2)
@@ -37,7 +37,7 @@ Aprendizados:
 
 ![]
 
-[Meu  código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_02_Menu_Indicador)
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_02_Menu_Indicador)
 
 Referência:
 [Criação de Menu de Navegação Mágico](https://www.youtube.com/watch?v=ArTVfdHOB-M&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=3)
@@ -53,7 +53,7 @@ Aprendizados:
 - **Dia 3 - Menu Circular**
 - ![]
 
-[Meu Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_03_Menu_Circular)
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_03_Menu_Circular)
 
 Referência:
 [Menu de Navegação Circular Animado](https://www.youtube.com/watch?v=ShPPkZEeLPo&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=4)
@@ -67,7 +67,7 @@ Referência:
 - **Dia 4 - Menu Barra Lateral**
 -![]
 
-[Meu Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_04_Menu_%20Barra_Lateral)
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_04_Menu_%20Barra_Lateral)
 
 Referência:
 [Menu da barra lateral usando HTML CSS e Javascript | Curva para fora na guia ativa](https://www.youtube.com/watch?v=P_A2kNpyQBs&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=6)
