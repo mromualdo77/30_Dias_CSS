@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Netflix | Lading Page UI Design</title>
+     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+     <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <header>
+          <a href="#" class="logo"><img src="./images/logo.png"></a>
+          <ul class="navigation">
+               <li> <a href="#">Home</a> </li>
+               <li><a href="#">TV Shows</a></li>
+               <li><a href="#">Movies</a></li>
+               <li><a href="#">Latest</a></li>
+               <li><a href="#">My List</a></li>
+          </ul>
+          <div class="search">
+               <input type="text" placeholder="Search">
+               <i class="fa fa-search" aria-hidden="true"></i>
+          </div>
+     </header>
+     <div class="banner">
+          <img src="./images/bg.jpg" class="bg">
+          <div class="content">
+               <img src="./images/name.png" alt="" class="movieTitle">
+               <h4>
+                    <span>2020</span>
+                    <span><i>12+</i></span>
+                    <span>1h 55min</span>
+                    <span>Action</span>
+               </h4>
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde perspiciatis eum recusandae in nostrum optio delectus molestiae inventore, enim adipisci vero illum reprehenderit eaque fugiat. Vitae expedita nemo esse cumque.enim adipisci vero illum reprehenderit eaque fugiat. Vitae expedita nemo esse cumque.</p>
+
+               <div class="buttons">
+                    <a href="#"><i class="fa fa-play" aria-hidden="true"></i>Play</a>
+                    <a href="#"><i class="fa fa-plus" aria-hidden="true"></i>My List</a>
+               </div>
+          </div>
+          <a class="play" onclick="toggleVideo();">  <img src="./images/play.png">Watch Trailer</a>
+     </div>
+     <div class="trailer">
+          <video src="Disney's Mulan _ Official Trailer.mp4"  controls="true" ></video>
+          <img src="./images/close.png" class="close" onclick="toggleVideo();" >
+     </div>
+
+     <script>
+          function toggleVideo(){
+               const trailer = document.querySelector('.trailer');
+               const video = document.querySelector('video');
+               trailer.classList.toggle('active')
+               video.currentTime = 0;
+               video.pause();
+          }
+     </script>
+</body>
+</html>
