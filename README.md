@@ -70,7 +70,7 @@ Referência:
 [Meu Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_04_Menu_%20Barra_Lateral)
 
 Referência:
-[Menu da barra lateral usando HTML CSS e Javascript](https://www.youtube.com/watch?v=P_A2kNpyQBs&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=6)
+[Menu da barra lateral usando HTML CSS e Javascript | Curva para fora na guia ativa](https://www.youtube.com/watch?v=P_A2kNpyQBs&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=6)
 
 * *Propriedades CSS **transform***
 * *pseudo-classe  **:nth-child***
