@@ -59,7 +59,6 @@ Referência:
 [Menu de Navegação Circular Animado](https://www.youtube.com/watch?v=ShPPkZEeLPo&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=4)
 
 
-* *propriedade CSS **transition***
+* *propriedade CSS **transition-delay***
 * *pseudo-classe **:hover***
-* *pseudo-classe **nth-child***
-* *pseudo-elemento **:after***
+
