@@ -76,9 +76,10 @@ Referência:
 * *pseudo-classe  **:nth-child***
 * *pseudo-elemento **::before*** 
 
+----
 - **Dia 5 - Portifolio Responsivo**
-- ![]
-[Código]()
+-![]
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_05_Portifolio_Responsivo)
 
 Referência:
 [Como criar um site de currículo responsivo usando HTML e CSS | Retomar o design do currículo em HTML CSS](https://www.youtube.com/watch?v=hnjHCmaUVPg&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=14)
