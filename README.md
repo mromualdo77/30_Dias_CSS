@@ -65,7 +65,7 @@ Referência:
 ------
 
 - **Dia 4 - Menu Barra Lateral**
--![]
+- ![]
 
 [Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_04_Menu_%20Barra_Lateral)
 
@@ -78,7 +78,7 @@ Referência:
 
 ----
 - **Dia 5 - Portifolio Responsivo**
--![]
+- ![]
 
 
 [Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_05_Portifolio_Responsivo)
