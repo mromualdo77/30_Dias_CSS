@@ -46,7 +46,7 @@ Aprendizados:
 
 * *propriedade CSS **transition***
 * *pseudo-classe **:hover*** and  **:nth-child***
-* *pseudo-elemento **:after***
+* *pseudo-elemento **::after***
 
 ----
 
@@ -62,3 +62,16 @@ Referência:
 * *propriedade CSS **transition-delay***
 * *pseudo-classe **:hover***
 
+------
+
+- **Dia 4 - Menu Barra Lateral**
+-![]
+
+[Meu Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_04_Menu_%20Barra_Lateral)
+
+Referência:
+[](https://www.youtube.com/watch?v=P_A2kNpyQBs&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=6)
+
+* *Propriedades CSS **transform**
+* *pseudo-classe  **:nth-child***
+* *pseudo-elemento **::before*** 
