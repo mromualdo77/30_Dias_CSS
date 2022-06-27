@@ -47,3 +47,19 @@ Aprendizados:
 * *pseudo-classe **:hover***
 * *pseudo-classe **nth-child***
 * *pseudo-elemento **:after***
+
+----
+
+- **Dia 3 - Menu Circular**
+- ![]
+
+[Meu Código]()
+
+Referência:
+[Menu de Navegação Circular Animado]()
+
+
+* *propriedade CSS **transition***
+* *pseudo-classe **:hover***
+* *pseudo-classe **nth-child***
+* *pseudo-elemento **:after***
