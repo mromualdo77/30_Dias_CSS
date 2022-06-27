@@ -45,7 +45,7 @@ Referência:
 Aprendizados:
 
 * *propriedade CSS **transition***
-* *pseudo-classe **:hover*** and  **nth-child***
+* *pseudo-classe **:hover*** and  **:nth-child***
 * *pseudo-elemento **:after***
 
 ----
