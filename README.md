@@ -35,7 +35,7 @@ Aprendizados:
 
 ![]
 
-[Meu  código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/1%C2%BA_Dia)
+[Meu  código]()
 
 Referência:
 [Criação de Menu de Navegação Mágico](https://www.youtube.com/watch?v=ArTVfdHOB-M&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=3)
