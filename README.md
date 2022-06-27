@@ -1,7 +1,7 @@
 # Desafio 30 Dia de CSS
 
 
-30 dias de CSS3, é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação treinando em  mini projetos diarios utilizando HTML5 e CSS3
+30 dias de CSS3, é um desafio que visa melhorar minhas habilidades de codificação treinando em  mini projetos diarios utilizando HTML5 e CSS3
 
 ## Objetivo do Desafio
 Melhorar minha habilidades de estilização em CSS3 
@@ -75,3 +75,12 @@ Referência:
 * *Propriedades CSS **transform***
 * *pseudo-classe  **:nth-child***
 * *pseudo-elemento **::before*** 
+
+- **Dia 5 - Portifolio Responsivo**
+- ![]
+[Código]()
+
+Referência:
+[Como criar um site de currículo responsivo usando HTML e CSS | Retomar o design do currículo em HTML CSS](https://www.youtube.com/watch?v=hnjHCmaUVPg&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=14)
+
+* *propriedade CSS **object-fit*** 
