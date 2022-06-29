@@ -114,7 +114,7 @@ Referência:
 [How to Create Responsive Resume Website using HTML and CSS](https://www.youtube.com/watch?v=hnjHCmaUVPg&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=14)
 
 Aprendizados:
-* *propriedade CSS **object-fit**
+* *propriedade CSS **object-fit***
 
 ----
 - **Dia 8 - Chicara de Chá Animada**
@@ -126,4 +126,32 @@ Referência:
 [Animated Hot Cup of Tea using Html & CSS only | CSS Animation Effects](https://www.youtube.com/watch?v=_jOqYe0eFqY&list=PL5e68lK9hEzdomAvf0eXOrieZcEB_IHyX&index=2)
 
 Aprendizados:
-* *propriedade CSS ****
+* *propriedade CSS *****
+
+----
+- **Dia 9 - Design de Lápis**
+- ![]
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_09_Design_de_L%C3%A1pis_CSS)
+
+Referência:
+[CSS Pencil Design](https://www.youtube.com/watch?v=lvKUtbP1XLA&list=PL5e68lK9hEzdomAvf0eXOrieZcEB_IHyX&index=4)
+
+Aprendizados:
+* *propriedade CSS **content***
+* *pseudo-elemento **::after*** and **::before***
+
+----
+
+- **Dia 10 - Netflix_Landing_Page_WebSite**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_10_Netflix_Landing_Page_WebSite)
+
+Referência:
+[Netflix Landing Page Website](https://www.youtube.com/watch?v=44OcU1PJWCA)
+
+Aprendizados:
+* *propriedade CSS **backdrop-filter*** and **visibility***
+
+----
