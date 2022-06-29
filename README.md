@@ -58,7 +58,7 @@ Aprendizados:
 Referência:
 [Menu de Navegação Circular Animado](https://www.youtube.com/watch?v=ShPPkZEeLPo&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=4)
 
-
+Aprendizados:
 * *propriedade CSS **transition-delay***
 * *pseudo-classe **:hover***
 
@@ -72,6 +72,7 @@ Referência:
 Referência:
 [Menu da barra lateral usando HTML CSS e Javascript | Curva para fora na guia ativa](https://www.youtube.com/watch?v=P_A2kNpyQBs&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=6)
 
+Aprendizados:
 * *Propriedades CSS **transform***
 * *pseudo-classe  **:nth-child***
 * *pseudo-elemento **::before*** 
@@ -84,6 +85,20 @@ Referência:
 [Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_05_Portifolio_Responsivo)
 
 Referência:
-[Como criar um site de currículo responsivo usando HTML e CSS | Retomar o design do currículo em HTML CSS](https://www.youtube.com/watch?v=hnjHCmaUVPg&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=14)
+[Como criar um site de Portifólio responsivo usando HTML e CSS | Retomar o design do currículo em HTML CSS](https://www.youtube.com/watch?v=hnjHCmaUVPg&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=14)
 
+Aprendizados:
 * *propriedade CSS **object-fit*** 
+
+----
+
+- **Dia 6 -  Relógio Digital** 
+- ![]
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_06_Relogio_Digital)
+
+Referência:
+[Amazing Working Digital Clock using Html CSS SVG & Javascript ](https://www.youtube.com/watch?v=eoSfzVz9ur0&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=15)
+
+Aprendizados:
+* *propriedades CSS ** stroke-dasharray***
