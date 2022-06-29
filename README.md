@@ -73,7 +73,7 @@ Referência:
 [Menu da barra lateral usando HTML CSS e Javascript | Curva para fora na guia ativa](https://www.youtube.com/watch?v=P_A2kNpyQBs&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=6)
 
 Aprendizados:
-* *Propriedades CSS **transform***
+* *Propriedade CSS **transform***
 * *pseudo-classe  **:nth-child***
 * *pseudo-elemento **::before*** 
 
@@ -101,4 +101,29 @@ Referência:
 [Amazing Working Digital Clock using Html CSS SVG & Javascript ](https://www.youtube.com/watch?v=eoSfzVz9ur0&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=15)
 
 Aprendizados:
-* *propriedades CSS ** stroke-dasharray***
+* *propriedade CSS **stroke-dasharray***
+
+----
+
+- **Dia 7 - Curriculo Responsivo**
+- ![]
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_07_Curr%C3%ADculo_Responsivo_Usando_HTML_CSS)
+
+Referência:
+[How to Create Responsive Resume Website using HTML and CSS](https://www.youtube.com/watch?v=hnjHCmaUVPg&list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5&index=14)
+
+Aprendizados:
+* *propriedade CSS **object-fit**
+
+----
+- **Dia 8 - Chicara de Chá Animada**
+- ![]
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_08_X%C3%ADcara_Ch%C3%A1_Animada)
+
+Referência:
+[Animated Hot Cup of Tea using Html & CSS only | CSS Animation Effects](https://www.youtube.com/watch?v=_jOqYe0eFqY&list=PL5e68lK9hEzdomAvf0eXOrieZcEB_IHyX&index=2)
+
+Aprendizados:
+* *propriedade CSS ****
