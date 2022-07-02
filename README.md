@@ -139,7 +139,7 @@ Referência:
 
 Aprendizados:
 * *propriedade CSS **content***
-* *pseudo-elemento **::after*** and   **::before**
+* *pseudo-elemento **::after*** and   **::before***
 
 ----
 
@@ -152,6 +152,19 @@ Referência:
 [Netflix Landing Page Website](https://www.youtube.com/watch?v=44OcU1PJWCA)
 
 Aprendizados:
-* *propriedade CSS **backdrop-filter*** and  **visibility**
+* *propriedade CSS **backdrop-filter*** and  **visibility***
+
+----
+
+- **Dia 11 - Pure Css Watermelon Shape**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_11_Css_Sahpe)
+
+Referência:
+[Pure Css Watermelon Shape](https://www.youtube.com/watch?v=sdRlMGkY-4s&list=PL5e68lK9hEzdomAvf0eXOrieZcEB_IHyX&index=5)
+
+Aprendizados:
+* *pseudo-classe  **:nth-child***
 
 ----
