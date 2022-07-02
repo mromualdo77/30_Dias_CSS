@@ -168,3 +168,28 @@ Aprendizados:
 * *pseudo-classe  **:nth-child***
 
 ----
+
+- **Dia 12 - Colorful Rain Animation **
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_12_Colorful_Rain_Animation)
+
+Referência:
+[Colorful Rain Animation Effects using Html CSS & Vanilla Javascript](https://www.youtube.com/watch?v=YhXxBhInJMI)
+
+Aprendizados:
+* *pseudo-classe  **:nth-child***
+
+----
+
+- **Dia 13 - Search Box in HTML & CSS with Icon**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_13_Barra_de_Pesquisa)
+
+Referência:
+[Search Box in HTML & CSS with Icon](https://www.youtube.com/watch?v=LIt719I-p-o)
+
+Aprendizados:
+* *pseudo-classe  **:hover***
+
