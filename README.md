@@ -139,7 +139,7 @@ Referência:
 
 Aprendizados:
 * *propriedade CSS **content***
-* *pseudo-elemento **::after*** and   **::before***
+* *pseudo-elemento **::after*** and   **::before**
 
 ----
 
@@ -152,6 +152,6 @@ Referência:
 [Netflix Landing Page Website](https://www.youtube.com/watch?v=44OcU1PJWCA)
 
 Aprendizados:
-* *propriedade CSS **backdrop-filter*** and  **visibility***
+* *propriedade CSS **backdrop-filter*** and  **visibility**
 
 ----
