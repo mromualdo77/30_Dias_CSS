@@ -193,3 +193,14 @@ Referência:
 Aprendizados:
 * *pseudo-classe  **:hover***
 
+----
+- **Dia 14 - Menu Isometrico**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_14_Menu_Isometrico)
+
+Referência:
+[CSS Isometric Menu Hover Effects](https://www.youtube.com/watch?v=MmdKeypSxE8)
+
+Aprendizados:
+* *pseudo-classe  **:last-child***
