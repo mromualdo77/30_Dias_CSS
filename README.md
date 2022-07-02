@@ -204,3 +204,38 @@ Referência:
 
 Aprendizados:
 * *pseudo-classe  **:last-child***
+
+----
+- **Dia 15 - Relogio_Animado_CSS**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_15_Relogio_Animado_CSS)
+
+Referência:
+[CSS Animated Clock - Pure CSS Clock Shape - CSS Animation Effect](https://www.youtube.com/watch?v=JeLGZ6GH_H0&list=PL5e68lK9hEzdomAvf0eXOrieZcEB_IHyX&index=7)
+
+Aprendizados:
+
+----
+- **Dia 16 - Water_Drops**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_16_Water_Drops)
+
+Referência:
+[Water Drops | Drawing with Html & CSS Only](https://www.youtube.com/watch?v=hgqHPLU-qIE&list=PL5e68lK9hEzdomAvf0eXOrieZcEB_IHyX&index=8)
+
+Aprendizados:
+* *pseudo-classe  **:nth-child***
+
+----
+- **Dia 17 - Ambient_Box_Effects**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_17_Ambient_Box_Effects)
+
+Referência:
+[Ambient Box Effects || CSS 3D Glowing Cube Animation Effects || By Coding Mamun](https://www.youtube.com/watch?v=KVoD_FjF-ZY)
+
+Aprendizados:
+* *propriedade CSS **transform-style**
