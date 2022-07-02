@@ -238,4 +238,70 @@ Referência:
 [Ambient Box Effects || CSS 3D Glowing Cube Animation Effects || By Coding Mamun](https://www.youtube.com/watch?v=KVoD_FjF-ZY)
 
 Aprendizados:
-* *propriedade CSS **transform-style**
+* *propriedade CSS **transform-style***
+
+----
+- **Dia 18 - Anime_JS**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_18_Anime_JS)
+
+Referência:
+[Anime JS Background Animation Effects | Animating CSS Properties using Anime.js](https://www.youtube.com/watch?v=XMhHEVznWEY&list=PL5e68lK9hEzfMtgg8NYTXtbzd3WkxpOPt)
+
+Aprendizados:
+
+----
+- **Dia 19 - Drop_Logo_Effect**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_19_Drop_Logo_Effect)
+
+Referência:
+[CSS Water Drop Logo Effect | Html CSS Dropmorphism](https://www.youtube.com/watch?v=GnllGn9Oifs&list=PL5e68lK9hEzdomAvf0eXOrieZcEB_IHyX&index=10)
+
+Aprendizados:
+
+----
+- **Dia 20 - Fundo_Animado_CSS**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_20_Fundo_Animado_CSS)
+
+Referência:
+[]()
+
+Aprendizados:
+
+----
+
+- **Dia 21 - Olhos_Seguem_Cursor**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_21_Olhos_Seguem_Cursor)
+
+Referência:
+[Online Tutorials](https://www.youtube.com/watch?v=6IdN0hpi3Gg&list=PL5e68lK9hEzdomAvf0eXOrieZcEB_IHyX&index=9)
+
+Aprendizados:
+
+-----
+- **Dia 22 - Background_Effects**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_22_Background_Effects)
+
+Referência:
+[Online Tutorials](https://www.youtube.com/watch?v=wuUSVEcK-kM)
+
+Aprendizados:
+
+----
+
+- **Dia 23 - Isometric_Social_Media_Icons**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_23_Isometric_Social_Media_Icons)
+
+Referência:
+[Online Tutorials](https://www.youtube.com/watch?v=YRp8kSUZiss)
