@@ -152,7 +152,7 @@ Referência:
 [Netflix Landing Page Website](https://www.youtube.com/watch?v=44OcU1PJWCA)
 
 Aprendizados:
-* *propriedade CSS **backdrop-filter*** and  **visibility***
+* *propriedade CSS **backdrop-filter*** and  **visibility**
 
 ----
 
@@ -169,7 +169,7 @@ Aprendizados:
 
 ----
 
-- **Dia 12 - Colorful Rain Animation **
+- **Dia 12 - Colorful Rain Animation**
 - []
 
 [Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_12_Colorful_Rain_Animation)
