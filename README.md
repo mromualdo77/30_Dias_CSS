@@ -305,3 +305,21 @@ Aprendizados:
 
 Referência:
 [Online Tutorials](https://www.youtube.com/watch?v=YRp8kSUZiss)
+
+----
+- **Dia 24 - Button Light Shadow**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_24_Button_Shadow)
+
+Referência:
+
+-----
+- **Dia 25 - Video_Dentro_Laptop**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_25_Video_Dentro_Laptop)
+
+Referência:
+[Video inside of Laptop Using HTML & CSS-DarkCode](https://www.youtube.com/watch?v=yFttCtRhNC8&list=LL&index=21)
+
