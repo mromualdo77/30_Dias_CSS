@@ -334,7 +334,7 @@ Referência:
 
 -----
 
-- **Dia 27 - Formulario_Login_Transparent **
+- **Dia 27 - Formulario_Login_Transparent**
 - []
 
 [Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_27_Formulario_Login_Transparent)
@@ -352,7 +352,7 @@ Referênica:
 []()
 
 ----
-- **Dia 29 -Site_Responsivo_Starbucks **
+- **Dia 29 -Site_Responsivo_Starbucks**
 - []
 
 [Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_29_Site_Responsivo_Starbucks)
