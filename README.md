@@ -323,3 +323,49 @@ Referência:
 Referência:
 [Video inside of Laptop Using HTML & CSS-DarkCode](https://www.youtube.com/watch?v=yFttCtRhNC8&list=LL&index=21)
 
+-----
+- **Dia 26 - Tabela_de_Precço_Responsiva**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_26_Tabela_de_Prec%C3%A7o_Responsiva)
+
+Referência:
+[DarkCode](https://www.youtube.com/watch?v=SWyuQMCTxCQ&list=LL&index=18&t=72s)
+
+-----
+
+- **Dia 27 - Formulario_Login_Transparent **
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_27_Formulario_Login_Transparent)
+
+Referência:
+[DarkCode](https://www.youtube.com/watch?v=ooc6f1w6Mzg&list=LL&index=15)
+
+----
+- **Dia 28 - Cartão_Responsivo**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_28Se%C3%A7%C3%A3o_Cart%C3%A3o_Responsivo)
+
+Referênica:
+[]()
+
+----
+- **Dia 29 -Site_Responsivo_Starbucks **
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_29_Site_Responsivo_Starbucks)
+
+Referênica:
+[Online Tutorials](https://www.youtube.com/watch?v=91Q6RvKvd7o&list=LL&index=12)
+
+----
+- **Dia 30 - Slide_Imagem_Responsivo**
+- []
+
+[Código](https://github.com/mromualdo77/30_Dias_CSS/tree/main/Dia_30_Slide_Imagem_Responsivo)
+
+Referência:
+[Coding Snow](https://www.youtube.com/watch?v=bW8X-tt5AZQ)
+
